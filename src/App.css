@@ -1,0 +1,20 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row
+{
+ position: relative;   
+}
+.man 
+{
+width: 40%;
+height: 480px;
+transform: rotate(-20deg);  
+margin-left:5%;
+z-index: -4 !important;
+position: absolute;
+}
